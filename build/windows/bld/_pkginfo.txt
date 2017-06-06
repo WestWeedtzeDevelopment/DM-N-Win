@@ -1,1 +1,1 @@
-U:\OneDrive\DM'N ionic2app - 1.10.0\Deutsche-Mitte---Aktuelle-News\platforms\windows\AppPackages\CordovaApp.Windows_1.35.0.0_anycpu_Test\CordovaApp.Windows_1.35.0.0_anycpu.appx
+U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\AppPackages\CordovaApp.Windows10_1.1.0.0_Test\CordovaApp.Windows10_1.1.0.0_x86_x64_arm.appxbundle

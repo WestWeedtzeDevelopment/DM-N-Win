@@ -1,0 +1,1 @@
+U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\Release\ARM\win10\Upload\CordovaApp.Windows10_1.1.0.0\CordovaApp.Windows10_1.1.0.0_x86_x64_arm.appxbundle

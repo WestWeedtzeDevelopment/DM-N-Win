@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\split.scale-400.pri"			"resources.pri"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\Wide310x150Logo.scale-400.png"			"images\Wide310x150Logo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\StoreLogo.scale-400.png"			"images\StoreLogo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\Square71x71Logo.scale-400.png"			"images\Square71x71Logo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\Square44x44Logo.scale-400.png"			"images\Square44x44Logo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\Square310x310Logo.scale-400.png"			"images\Square310x310Logo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\Square150x150Logo.scale-400.png"			"images\Square150x150Logo.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\splashscreen.scale-400.png"			"images\splashscreen.scale-400.png"
+"U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\bld\PackageLayout\images\BadgeLogo.scale-400.png"			"images\BadgeLogo.scale-400.png"

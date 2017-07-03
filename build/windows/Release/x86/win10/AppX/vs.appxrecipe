@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-IDEAPAD</Machine>
+    <WindowsUser>Kingp</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b6a71ad4-5a4e-480a-80ae-81efeaf768cd</PackageIdentityName>
+    <PackageIdentityPublisher>CN=47AF69ED-2732-47DA-B13E-0E7FFFE045CA</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\AppX</LayoutDir>
+    <RegisteredManifestChecksum>506B5FEB101D6AB575A5B208D0C830B46AF518A6E177946B89B3DB67038F0F50</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>17701WestWeedtzeDevelopme.DeutscheMitte-Aktuellino_1.46.0.0_x86__e0h9fbhyv9ebc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>17701WestWeedtzeDevelopme.DeutscheMitte-Aktuellino_e0h9fbhyv9ebc!de.dm.news</RegisteredUserModeAppID>
+    <RegisteredPackageID>17701WestWeedtzeDevelopme.DeutscheMitte-Aktuellino</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=47AF69ED-2732-47DA-B13E-0E7FFFE045CA</RegisteredPackagePublisher>
+    <RegisteredVersion>1.46.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-03T21:09:22.441</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2017-07-02T10:10:39.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:03.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:03.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:04.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\splashscreen.scale-200.png">
+      <PackagePath>images\splashscreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:04.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:05.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\SplashScreenPhone.scale-240.png">
+      <PackagePath>images\SplashScreenPhone.scale-240.png</PackagePath>
+      <Modified>2017-07-02T07:52:19.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:52.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:52.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:53.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:53.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:19.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:54.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2017-07-02T07:52:22.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:56.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square310x310Logo.scale-125.png">
+      <PackagePath>images\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:56.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square310x310Logo.scale-150.png">
+      <PackagePath>images\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:56.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square310x310Logo.scale-200.png">
+      <PackagePath>images\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:56.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square310x310Logo.scale-400.png">
+      <PackagePath>images\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:57.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:01.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.altform-unplated_targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:02.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:03.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:02.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:02.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:57.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:58.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:58.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:58.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:19.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:59.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:59.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:00.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:01.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:00.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:59:00.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2017-07-02T07:52:19.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:51.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-125.png">
+      <PackagePath>images\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:51.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-150.png">
+      <PackagePath>images\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:51.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-200.png">
+      <PackagePath>images\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:51.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:19.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Square71x71Logo.scale-400.png">
+      <PackagePath>images\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:52.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:22.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:19.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:54.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:54.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:55.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:55.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:52:19.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-02T07:58:55.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-03T21:06:29.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\data\feeds-category.json">
+      <PackagePath>www\assets\data\feeds-category.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\data\feeds.json">
+      <PackagePath>www\assets\data\feeds.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.eot">
+      <PackagePath>www\assets\fonts\ionicons.eot</PackagePath>
+      <Modified>2017-07-02T10:10:39.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.scss">
+      <PackagePath>www\assets\fonts\ionicons.scss</PackagePath>
+      <Modified>2017-07-02T10:10:39.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.svg">
+      <PackagePath>www\assets\fonts\ionicons.svg</PackagePath>
+      <Modified>2017-07-02T10:10:39.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.ttf">
+      <PackagePath>www\assets\fonts\ionicons.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:39.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.woff">
+      <PackagePath>www\assets\fonts\ionicons.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\ionicons.woff2">
+      <PackagePath>www\assets\fonts\ionicons.woff2</PackagePath>
+      <Modified>2017-07-02T10:10:40.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\noto-sans-bold.ttf">
+      <PackagePath>www\assets\fonts\noto-sans-bold.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\noto-sans-bold.woff">
+      <PackagePath>www\assets\fonts\noto-sans-bold.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\noto-sans-regular.ttf">
+      <PackagePath>www\assets\fonts\noto-sans-regular.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\noto-sans-regular.woff">
+      <PackagePath>www\assets\fonts\noto-sans-regular.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\noto-sans.scss">
+      <PackagePath>www\assets\fonts\noto-sans.scss</PackagePath>
+      <Modified>2017-07-02T10:10:40.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-bold.ttf">
+      <PackagePath>www\assets\fonts\roboto-bold.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-bold.woff">
+      <PackagePath>www\assets\fonts\roboto-bold.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-bold.woff2">
+      <PackagePath>www\assets\fonts\roboto-bold.woff2</PackagePath>
+      <Modified>2017-07-02T10:10:40.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-light.ttf">
+      <PackagePath>www\assets\fonts\roboto-light.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-light.woff">
+      <PackagePath>www\assets\fonts\roboto-light.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-light.woff2">
+      <PackagePath>www\assets\fonts\roboto-light.woff2</PackagePath>
+      <Modified>2017-07-02T10:10:40.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-medium.ttf">
+      <PackagePath>www\assets\fonts\roboto-medium.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-medium.woff">
+      <PackagePath>www\assets\fonts\roboto-medium.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-medium.woff2">
+      <PackagePath>www\assets\fonts\roboto-medium.woff2</PackagePath>
+      <Modified>2017-07-02T10:10:40.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-regular.ttf">
+      <PackagePath>www\assets\fonts\roboto-regular.ttf</PackagePath>
+      <Modified>2017-07-02T10:10:40.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-regular.woff">
+      <PackagePath>www\assets\fonts\roboto-regular.woff</PackagePath>
+      <Modified>2017-07-02T10:10:40.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto-regular.woff2">
+      <PackagePath>www\assets\fonts\roboto-regular.woff2</PackagePath>
+      <Modified>2017-07-02T10:10:40.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\fonts\roboto.scss">
+      <PackagePath>www\assets\fonts\roboto.scss</PackagePath>
+      <Modified>2017-07-02T10:10:40.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\icon\favicon.ico">
+      <PackagePath>www\assets\icon\favicon.ico</PackagePath>
+      <Modified>2017-07-02T10:10:40.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\10ThesenWahlomat.png">
+      <PackagePath>www\assets\img\10ThesenWahlomat.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\appicon.png">
+      <PackagePath>www\assets\img\appicon.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\BannerDMStammtische.gif">
+      <PackagePath>www\assets\img\BannerDMStammtische.gif</PackagePath>
+      <Modified>2017-07-02T10:10:40.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\facebookbg.jpg">
+      <PackagePath>www\assets\img\facebookbg.jpg</PackagePath>
+      <Modified>2017-07-02T10:10:40.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\facebookicon.png">
+      <PackagePath>www\assets\img\facebookicon.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\firebase.png">
+      <PackagePath>www\assets\img\firebase.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-1.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-1.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-2.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-2.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-3.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-3.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-4.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-4.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-5.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-5.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-6.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-6.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\ica-slidebox-img-7.png">
+      <PackagePath>www\assets\img\ica-slidebox-img-7.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\img\splashbg.png">
+      <PackagePath>www\assets\img\splashbg.png</PackagePath>
+      <Modified>2017-07-02T10:10:40.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\translations\de.json">
+      <PackagePath>www\assets\translations\de.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\translations\en.json">
+      <PackagePath>www\assets\translations\en.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\assets\translations\fr.json">
+      <PackagePath>www\assets\translations\fr.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\build\main.css">
+      <PackagePath>www\build\main.css</PackagePath>
+      <Modified>2017-07-02T10:10:40.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\build\main.js">
+      <PackagePath>www\build\main.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\build\polyfills.js">
+      <PackagePath>www\build\polyfills.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\build\sw-toolbox.js">
+      <PackagePath>www\build\sw-toolbox.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2017-07-02T07:52:22.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2017-07-02T07:52:22.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\css\inappbrowser.css">
+      <PackagePath>www\css\inappbrowser.css</PackagePath>
+      <Modified>2017-07-02T07:52:24.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2017-07-02T07:52:22.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2017-07-03T21:06:28.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\manifest.json">
+      <PackagePath>www\manifest.json</PackagePath>
+      <Modified>2017-07-02T10:10:40.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-console\www\console-via-logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\console-via-logger.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-console\www\logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\logger.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-device\www\device.js">
+      <PackagePath>www\plugins\cordova-plugin-device\www\device.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-facebook4\www\facebook-native.js">
+      <PackagePath>www\plugins\cordova-plugin-facebook4\www\facebook-native.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-x-socialsharing\src\windows\SocialSharingProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-x-socialsharing\src\windows\SocialSharingProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\cordova-plugin-x-socialsharing\www\SocialSharing.js">
+      <PackagePath>www\plugins\cordova-plugin-x-socialsharing\www\SocialSharing.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js">
+      <PackagePath>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\service-worker.js">
+      <PackagePath>www\service-worker.js</PackagePath>
+      <Modified>2017-07-02T10:10:40.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kingp\Source\Repos\DM-N-Win\build\windows\Release\x86\win10\ilc\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2017-07-02T07:52:21.566</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

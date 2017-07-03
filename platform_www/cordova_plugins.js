@@ -33,27 +33,6 @@ module.exports = [
         ]
     },
     {
-        "id": "cordova-plugin-email.EmailComposer",
-        "file": "plugins/cordova-plugin-email/www/email_composer.js",
-        "pluginId": "cordova-plugin-email",
-        "clobbers": [
-            "cordova.plugins.email",
-            "plugin.email"
-        ]
-    },
-    {
-        "id": "cordova-plugin-email.EmailComposerProxy",
-        "file": "plugins/cordova-plugin-email/src/windows/EmailComposerProxy.js",
-        "pluginId": "cordova-plugin-email",
-        "runs": true
-    },
-    {
-        "id": "cordova-plugin-email.EmailComposerProxyImpl",
-        "file": "plugins/cordova-plugin-email/src/windows/EmailComposerProxyImpl.js",
-        "pluginId": "cordova-plugin-email",
-        "runs": true
-    },
-    {
         "id": "cordova-plugin-facebook4.FacebookConnectPlugin",
         "file": "plugins/cordova-plugin-facebook4/www/facebook-native.js",
         "pluginId": "cordova-plugin-facebook4",
@@ -137,8 +116,8 @@ module.exports.metadata =
 {
     "cordova-plugin-compat": "1.1.0",
     "cordova-plugin-console": "1.0.5",
+    "cordova-plugin-crosswalk-webview": "2.3.0",
     "cordova-plugin-device": "1.1.4",
-    "cordova-plugin-email": "1.2.6",
     "cordova-plugin-facebook4": "1.7.1",
     "cordova-plugin-inappbrowser": "1.6.1",
     "cordova-plugin-splashscreen": "4.0.3",

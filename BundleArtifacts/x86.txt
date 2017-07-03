@@ -1,1 +1,1 @@
-MainPackage=U:\OneDrive\DM'N ionic2app - 1.10.0\DM-N-Win-master\build\windows\Release\x86\win10\CordovaApp.Windows10_1.1.0.0_x86.appx
+MainPackage=C:\Users\Kingp\Deutsche-Mitte---Aktuelle-News\platforms\windows\build\windows\Release\x86\win10\CordovaApp.Windows10_1.46.0.0_x86.appx

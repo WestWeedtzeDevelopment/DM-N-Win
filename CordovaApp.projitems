@@ -6,11 +6,6 @@
     <SharedGUID>9ebdb27f-d75b-4d8c-b53f-7be4a1fe89f9</SharedGUID>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)images\BadgeLogo.scale-100.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\BadgeLogo.scale-125.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\BadgeLogo.scale-150.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\BadgeLogo.scale-200.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\BadgeLogo.scale-400.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\SplashScreen.scale-100.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\splashscreen.scale-125.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\splashscreen.scale-150.png" />
@@ -53,11 +48,7 @@
     <Content Include="$(MSBuildThisFileDirectory)images\Square71x71Logo.scale-240.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\Square71x71Logo.scale-400.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-100.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-125.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-150.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-200.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-240.png" />
-    <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-400.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\Wide310x150Logo.scale-100.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\Wide310x150Logo.scale-125.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\Wide310x150Logo.scale-150.png" />

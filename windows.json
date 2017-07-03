@@ -8,39 +8,39 @@
     },
     "installed_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "DM'N"
-        },
-        "cordova-plugin-email": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-facebook4": {
             "APP_ID": "131001554119757",
             "APP_NAME": "IonicFrameworkApp",
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         },
         "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "DM'N"
+            "PACKAGE_NAME": "Deutsche Mitte Aktuell"
         }
     },
     "dependent_plugins": {},
@@ -76,27 +76,6 @@
             "merges": [
                 ""
             ]
-        },
-        {
-            "id": "cordova-plugin-email.EmailComposer",
-            "file": "plugins/cordova-plugin-email/www/email_composer.js",
-            "pluginId": "cordova-plugin-email",
-            "clobbers": [
-                "cordova.plugins.email",
-                "plugin.email"
-            ]
-        },
-        {
-            "id": "cordova-plugin-email.EmailComposerProxy",
-            "file": "plugins/cordova-plugin-email/src/windows/EmailComposerProxy.js",
-            "pluginId": "cordova-plugin-email",
-            "runs": true
-        },
-        {
-            "id": "cordova-plugin-email.EmailComposerProxyImpl",
-            "file": "plugins/cordova-plugin-email/src/windows/EmailComposerProxyImpl.js",
-            "pluginId": "cordova-plugin-email",
-            "runs": true
         },
         {
             "id": "cordova-plugin-facebook4.FacebookConnectPlugin",
@@ -180,8 +159,8 @@
     "plugin_metadata": {
         "cordova-plugin-compat": "1.1.0",
         "cordova-plugin-console": "1.0.5",
+        "cordova-plugin-crosswalk-webview": "2.3.0",
         "cordova-plugin-device": "1.1.4",
-        "cordova-plugin-email": "1.2.6",
         "cordova-plugin-facebook4": "1.7.1",
         "cordova-plugin-inappbrowser": "1.6.1",
         "cordova-plugin-splashscreen": "4.0.3",
